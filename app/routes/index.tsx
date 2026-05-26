@@ -14,10 +14,10 @@ export default function Page() {
       <main className="flex min-h-[calc(100vh-132px)] items-center justify-center px-6 py-16">
         <section className="mx-auto max-w-4xl text-center">
           <h1 className="mx-auto max-w-4xl text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
-            こんにちは、マグノアウベスです
+            こんにちは、ダビドコンチャです
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg text-balance text-base-content/70 sm:text-xl">
-            ポートランドを拠点に、風景、ポートレート、街の自然な瞬間を撮影するフリーランス写真家です。
+            ポートランド拠点のフリーランス写真家。風景・ポートレート・街の瞬間を撮影します。
           </p>
         </section>
       </main>
